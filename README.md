@@ -1,16 +1,40 @@
+# Typr
 
-# **Typr**
+> A custom-built autotyper with human-like precision
 
-💻 *A custom-built autotyper with human-like precision.*
+**Typr** is a lightweight, high-performance autotyper designed to mimic authentic human typing behavior. Built with PyAutoGUI, it features intelligent error simulation, natural timing variations, and customizable randomness to create genuinely realistic typing patterns.
 
-**Typr** is a lightweight, high-performance autotyper designed to mimic real human typing behavior. With its built-in **human error engine**, Typr adds natural keypress variations, authentic delays, and customizable randomness—making every output look and feel like genuine typing.
+⚠️ **Educational Purpose Only** — This tool is intended for legitimate automation, testing, and educational use. Please use responsibly and in accordance with all applicable terms of service.
 
-Perfect for developers, power users, and automation enthusiasts who need speed without sacrificing realism.
 
- **Key Features**
+## ✨ Key Features
 
-* ⚙️ **Human Error Function** — Adds realistic imperfections, timing variance, and natural rhythm.
-* ⚡ **Fast & Efficient** — Optimized for smooth, rapid text execution.
-* 🎛️ **Fully Customizable** — Control speed, randomness, and behavior patterns.
-* 🧩 **Clean, Minimal Design** — Simple interface, powerful automation.
+- **🧠 Human Error Simulation** — Introduces realistic typos, corrections, and natural timing variations that mirror actual human typing patterns
+- **⚡ High Performance** — Optimized for speed without compromising authenticity
+- **🎛️ Fully Customizable** — Adjust typing speed, error frequency, pause patterns, and behavioral characteristics
+- **🔧 PyAutoGUI Integration** — Leverages industry-standard automation library for reliable cross-platform support
 
+---
+
+## 🚀 Getting Started
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/spyder-live/typr.git
+cd typr
+
+# Run typr 
+python3 main.py 
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+
+
+
+## ⚖️ Disclaimer
+
+This software is provided for educational and legitimate automation purposes only. Users are responsible for ensuring their use complies with all applicable laws, regulations, and terms of service. The developers assume no liability for misuse of this software.

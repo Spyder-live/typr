@@ -52,8 +52,8 @@ def human_error(whentofix, errorchance):
 
 
 def main(): 
-    print("Welcome to Typr with Human Error Simulation!")
-    print("Make sure you have a text.txt file in the same directory as this script. It will read from that file your text.")
+    print("Welcome to Typr! A releastic human typing utility")
+    print("Make sure to edit your text.txt with your text!")
     fixerror = input("Do you want to simulate human error? (yes/no): ") 
     wpm = input("Enter your typing speed in WPM: ")
     delay = wpm_delay(int(wpm))

@@ -12,8 +12,6 @@
 - **🧠 Human Error Simulation** — Introduces realistic typos, corrections, and natural timing variations that mirror actual human typing patterns
 - **⚡ High Performance** — Optimized for speed without compromising authenticity
 - **🎛️ Fully Customizable** — Adjust typing speed, error frequency, pause patterns, and behavioral characteristics
-- **🔧 PyAutoGUI Integration** — Leverages industry-standard automation library for reliable cross-platform support
-
 ---
 
 ## 🚀 Getting Started
